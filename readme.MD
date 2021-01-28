@@ -1,1 +1,1 @@
-Заготовки под разные виды проектов для запуска в докере.
+List for different types of projects for running in the docker
